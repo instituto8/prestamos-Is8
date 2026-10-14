@@ -1,0 +1,19 @@
+{
+  "name": "ISFT8 · Préstamos y reservas de equipos",
+  "short_name": "Equipos ISFT8",
+  "description": "Préstamos y reservas de equipos del ISFT N°8",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#233a85",
+  "theme_color": "#233a85",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

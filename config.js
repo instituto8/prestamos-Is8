@@ -1,0 +1,2 @@
+// Pegá entre las comillas la URL de la aplicación web de Apps Script (termina en /exec)
+window.API_URL='https://script.google.com/macros/s/AKfycbyMTSw3wNk8EUuFwVyTntb2RbuWc55DVyBnDn8vqSCENsJHg8ZePpaGQ2yEuf8pYRJ4/exec'
